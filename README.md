@@ -1,3 +1,8 @@
-# Explore-the-World
-Exploring World- Travelling Website, to interact with users and swap across the windows and beautiful cities to visit in India.
-Designed and developed a website which allows users to explore different views around the world utilizing HTML, CSS, JavaScript and React, showcasing proficiency in frontend development and user interface design. A full stack project which includes user authentication and login , using Node.js and MongoDB.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
